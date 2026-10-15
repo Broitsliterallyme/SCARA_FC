@@ -1,1 +1,29 @@
-.FCBak
+# FreeCAD backup files
+*.FCStd1
+*.FCStd2
+*.FCBak
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# FreeCAD autosave files
+*.FCStd.autosave
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
