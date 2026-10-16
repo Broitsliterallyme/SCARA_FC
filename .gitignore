@@ -7,7 +7,7 @@
 *.tmp
 *.bak
 *.swp
-*~
+*~cd
 
 # FreeCAD autosave files
 *.FCStd.autosave
